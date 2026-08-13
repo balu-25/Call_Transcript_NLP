@@ -1,0 +1,4 @@
+Manager: Good morning, I wanted to discuss the quarterly sales report.
+Client: Morning, yes I reviewed it. Numbers look good for Q3.
+Manager: Great, can we schedule a follow up meeting next Tuesday to finalize the contract?
+Client: Sure, I'll send over the signed agreement by Friday.

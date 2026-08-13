@@ -1,0 +1,5 @@
+Caller: This is an urgent call from your bank's security department.
+Caller: Your account has been compromised, we need to verify you immediately.
+Caller: Please share your card number, CVV and the OTP sent to your phone right now.
+Customer: Umm okay, my card number is 4111 1111 1111 1111 and OTP is 839201.
+Caller: Thank you, your account is now safe.

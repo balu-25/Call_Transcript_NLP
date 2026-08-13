@@ -1,0 +1,11 @@
+                precision    recall  f1-score   support
+
+ Business Call       0.60      1.00      0.75         3
+Complaint Call       0.75      1.00      0.86         3
+   Family Call       0.00      0.00      0.00         3
+    Fraud Call       0.75      1.00      0.86         3
+   Friend Call       0.50      0.33      0.40         3
+
+      accuracy                           0.67        15
+     macro avg       0.52      0.67      0.57        15
+  weighted avg       0.52      0.67      0.57        15

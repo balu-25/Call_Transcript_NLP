@@ -1,0 +1,84 @@
+text,purpose,tone
+"Hi mom, just calling to check how you are doing today.",Family Call,Neutral
+"Dad, are you coming home for dinner tonight?",Family Call,Neutral
+"I miss you grandma, when are you visiting us?",Family Call,Neutral
+Can you pick up my daughter from school today?,Family Call,Neutral
+"We are planning a family trip next month, are you free?",Family Call,Low
+"Happy birthday brother, hope you have a wonderful day.",Family Call,Neutral
+"Mom I will be late, please don't wait for dinner.",Family Call,Neutral
+"Sister, did you take your medicine today?",Family Call,Neutral
+"Uncle, thank you for the gift you sent for the wedding.",Family Call,Neutral
+"Dad I need some advice about my job, can we talk tonight?",Family Call,Neutral
+Grandpa how was your doctor appointment today?,Family Call,Neutral
+"Cousin, are we still meeting for the family reunion?",Family Call,Neutral
+"Mom I love you, take care of yourself.",Family Call,Neutral
+Can you tell dad I will call him after work?,Family Call,Neutral
+"Aunt, thank you for taking care of the kids yesterday.",Family Call,Neutral
+"Hey man, are we still on for the movie tonight?",Friend Call,Low
+"Dude that party last night was crazy, let's do it again.",Friend Call,Neutral
+"What are you up to this weekend, want to grab coffee?",Friend Call,Neutral
+"Bro I need advice, can we talk for a bit?",Friend Call,Neutral
+Haha that meme you sent was hilarious.,Friend Call,Neutral
+Let's plan a road trip next weekend with the gang.,Friend Call,Neutral
+"I heard you got a new job, congrats buddy!",Friend Call,High
+Are you coming to the reunion next Friday?,Friend Call,Neutral
+"Miss hanging out with you, let's catch up soon.",Friend Call,Neutral
+Yo did you watch the game last night?,Friend Call,Neutral
+Let's go for a hike this Saturday if you're free.,Friend Call,Neutral
+"I need to vent about my day, got a minute?",Friend Call,Neutral
+Remember that trip we took in college? Good times.,Friend Call,Neutral
+Want to come over and play video games tonight?,Friend Call,Neutral
+"Thanks for helping me move last weekend, you're the best.",Friend Call,Neutral
+I am calling to complain about the poor service I received yesterday.,Complaint Call,High
+My internet has been down for three days and no one has fixed it.,Complaint Call,Neutral
+The product I ordered arrived damaged and I want a refund.,Complaint Call,High
+"I have been on hold for over an hour, this is unacceptable.",Complaint Call,High
+Your delivery was two weeks late and nobody informed me.,Complaint Call,High
+"I was charged twice for the same order, please fix this immediately.",Complaint Call,High
+The technician never showed up for the scheduled appointment.,Complaint Call,Neutral
+This is the third time I am calling about the same billing error.,Complaint Call,Neutral
+I want to speak to a manager about my terrible experience.,Complaint Call,High
+"The item I received is not what I ordered, I am very disappointed.",Complaint Call,High
+Your customer support has been extremely unhelpful and rude.,Complaint Call,High
+I demand a refund for the faulty product you sent me.,Complaint Call,High
+My account was wrongly suspended and no one can explain why.,Complaint Call,Neutral
+"This service is a complete waste of money, I want to cancel.",Complaint Call,Neutral
+I have been overcharged on my bill for the last two months.,Complaint Call,High
+"Good morning, I am calling regarding the quarterly sales report.",Business Call,Neutral
+We would like to schedule a meeting to discuss the new contract.,Business Call,Neutral
+Can we finalize the budget proposal by end of this week?,Business Call,High
+I am following up on the invoice we sent last month.,Business Call,Neutral
+Let's set up a call with the client to review the project timeline.,Business Call,High
+Our team needs approval on the marketing strategy document.,Business Call,High
+I wanted to discuss the partnership opportunity with your company.,Business Call,High
+Please send over the signed agreement at your earliest convenience.,Business Call,Neutral
+We are hiring for a new position and would like to interview you.,Business Call,High
+The board meeting has been rescheduled to next Tuesday.,Business Call,Neutral
+Can you share the updated financial projections for next quarter?,Business Call,High
+I am reaching out about a potential collaboration between our firms.,Business Call,Neutral
+Let's discuss the vendor contract renewal terms.,Business Call,High
+Our quarterly earnings call is scheduled for next week.,Business Call,High
+I need the presentation slides ready before the client meeting.,Business Call,Neutral
+"This is your bank calling, please share your account password to verify.",Fraud Call,Neutral
+"You have won a lottery of one million dollars, send processing fee to claim.",Fraud Call,Neutral
+"Sir your card has been blocked, please provide the OTP sent to your phone.",Fraud Call,Neutral
+"This is the tax department, you owe money, pay immediately or face arrest.",Fraud Call,High
+"Congratulations you are selected for a free gift, just share your card number.",Fraud Call,High
+We need your social security number to unlock your suspended account.,Fraud Call,Neutral
+"Your computer has a virus, give us remote access to fix it right now.",Fraud Call,Neutral
+"This is courier service, pay a customs fee to receive your parcel today.",Fraud Call,Neutral
+Your account will be closed unless you verify your PIN immediately.,Fraud Call,High
+"I am calling from the government, share your bank details to get your refund.",Fraud Call,High
+You must transfer money now or legal action will be taken against you.,Fraud Call,High
+"This is Microsoft support, please provide your password to fix the error.",Fraud Call,High
+"Act fast, your subscription will renew unless you give your card details now.",Fraud Call,High
+"We detected suspicious activity, confirm your CVV number to secure your account.",Fraud Call,Neutral
+"You have an unclaimed prize, just pay a small fee and share your bank account.",Fraud Call,High
+"There is a bomb planted in the building, everyone must evacuate now.",Emergency,High
+We are planning an attack on the government office next week.,Emergency,Neutral
+I have information about a terrorist plot targeting the railway station.,Emergency,High
+This call is to coordinate an attack against the national assembly.,Emergency,Neutral
+We need weapons delivered for the operation against the capital.,Emergency,Neutral
+There is going to be an explosion at the central market tomorrow.,Emergency,Neutral
+Our group is planning to hijack the flight departing tonight.,Emergency,Neutral
+We must destroy the power grid as part of the anti national mission.,Emergency,High

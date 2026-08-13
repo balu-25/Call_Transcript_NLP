@@ -1,0 +1,4 @@
+Customer: I am calling to complain, my internet has been down for THREE days now!
+Agent: I'm sorry to hear that, let me look into your account.
+Customer: This is unacceptable, I've called twice already and nobody fixed it!
+Agent: I understand your frustration, I will escalate this immediately.
